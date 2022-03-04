@@ -1,0 +1,11 @@
+{
+ "name": "CoinName",
+ "website": "!!Coin website here!!",
+ "description": "!!description of coin here!!",
+ "explorer": "https://bscscan.com/token/0xD839Ec9E3Ea23BBAfd75B81Be4A5255fF8337924",
+ "type": "BEP20",
+ "symbol": "BFS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xD839Ec9E3Ea23BBAfd75B81Be4A5255fF8337924"
+}
