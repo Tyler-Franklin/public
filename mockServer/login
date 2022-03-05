@@ -1,0 +1,11 @@
+{
+    "userAddress" : "0x4177b5b8745304Bd1C3df1E15A5b4af45BAb48E8",
+    "nickName" : "Federica",
+    "amount" : 89823,
+    "token" : {
+        "USDT" : 1000
+        "USDC" : 2000
+        "MOCK" : 3000
+    }
+}
+
