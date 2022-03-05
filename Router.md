@@ -1,5 +1,9 @@
 # Mock Server Routers
 
-### Wallet
+### /login
 
-https://public.web3socket.com/mockServer/login
+https://public.web3socket.com/mockServer/login.json
+
+### /transactions
+
+https://public.web3socket.com/mockServer/transactions.json

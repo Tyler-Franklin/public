@@ -3,8 +3,8 @@
     "nickName" : "Federica",
     "amount" : 89823,
     "token" : {
-        "USDT" : 1000
-        "USDC" : 2000
+        "USDT" : 1000,
+        "USDC" : 2000,
         "MOCK" : 3000
     }
 }
