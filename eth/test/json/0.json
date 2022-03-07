@@ -1,5 +1,6 @@
 {
     "name": "NMYSL",
-    "description": "https://public.web3socket.com/eth/test/",
-    "external_url": "https://public.web3socket.com/eth/test/images/nmysl.jpg"
+    "description": "NMYSL",
+    "external_url": "https://public.web3socket.com/eth/test/",
+    "image": "https://public.web3socket.com/eth/test/images/nmysl.jpg"
 }
