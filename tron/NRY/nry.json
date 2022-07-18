@@ -7,10 +7,10 @@
             "name": "nry",
             "symbol": "NRY",
             "decimals": 6,
-            "logoURI": "https://tyler-franklin.github.io/public/tron/NRY/nry.png"
+            "logoURI": "https://public.web3socket.com/tron/NRY/nry.png"
         }
     ],
-    "logoURI": "https://tyler-franklin.github.io/public/tron/NRY/nry.png",
+    "logoURI": "https://public.web3socket.com/tron/NRY/nry.png",
     "version": {
         "patch": 1,
         "major": 0,
