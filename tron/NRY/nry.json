@@ -1,0 +1,20 @@
+{
+    "name": "nry",
+    "tokens": [
+       {
+            "chainId": 1,
+            "address": "TA7pu4j16vih5V9QAgXLw5Br5U44SabtxB",
+            "name": "nry",
+            "symbol": "NRY",
+            "decimals": 6,
+            "logoURI": "https://tyler-franklin.github.io/public/tron/NRY/nry.png"
+        }
+    ],
+    "logoURI": "https://tyler-franklin.github.io/public/tron/NRY/nry.png",
+    "version": {
+        "patch": 1,
+        "major": 0,
+        "minor": 0
+    },
+    "timestamp": 1658131437294
+}
